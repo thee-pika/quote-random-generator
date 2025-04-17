@@ -2,7 +2,7 @@
 
 Gets a random quote from the Quotable API ([Quotable API](https://api.quotable.io)). Great for giving your team some inspiration after a build :grinning:.
 
-![Build Message](media/random-generator.png)
+![Build Message](media/image.png)
 
 ## Features
 

@@ -1,6 +1,6 @@
 {
   "name": "quote-random-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An npm package to random quotes with their authors.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -17,7 +17,10 @@
     "url": "git+https://github.com/thee-pika/quote-random-generator.git"
   },
   "keywords": [
-    "npm"
+    "npm",
+    "random",
+    "quote",
+    "inspiration"
   ],
   "author": "Mogili Deepika",
   "dependencies": {

@@ -19,10 +19,10 @@ import {getRandomQuotes} from "quote-random-generator";
 const getQuotes = async () => {
   const data = await getRandomQuotes();
   console.log(data)
-        //{
+        // {
         //    author: 'Edwin Chapin',
         //    quote: 'Every action of our lives touches on some chord that will vibrate in eternity.'
-        //}
+        // }
 }
 
 getQuotes();

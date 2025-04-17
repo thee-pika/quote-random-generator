@@ -1,0 +1,32 @@
+{
+  "name": "quote-random-generator",
+  "version": "1.0.0",
+  "description": "An npm package to random quotes with their authors",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "license": "MIT",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Mogili Deepika",
+  "dependencies": {
+    "axios": "^1.8.4"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "tsup": "^8.4.0",
+    "typescript": "^5.8.3",
+    "@types/node": "^22.14.1"
+  }
+}
